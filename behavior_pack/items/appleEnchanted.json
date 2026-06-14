@@ -11,7 +11,7 @@
       "minecraft:use_duration": 32,
       "minecraft:foil": true,
       "minecraft:food": {
-        "nutrition": 4,
+        "nutrition": 8,
         "saturation_modifier": "supernatural",
         "can_always_eat": true,
         "effects": [
