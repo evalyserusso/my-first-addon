@@ -1850,6 +1850,9 @@
     },
     "record_tears": {
       "textures": "textures/items/music_disc_tears"
+    },
+    "magic_wand": {
+      "textures": "textures/items/magic_wand"
     }
   }
 }
